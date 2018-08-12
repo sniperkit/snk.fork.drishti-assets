@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 {
     "face_detector": "@FACE_DETECTOR@",
     "eye_model_regressor": "@EYE_MODEL_REGRESSOR@",
